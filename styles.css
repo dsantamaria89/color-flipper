@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  width: 75%;
+  border: 1px solid black;
+  margin: 0 auto;
+  margin: 25px 0;
+  background-color: black;
+  color: white;
+}
+
+button {
+  display: inline-block;
+  width: 100px;
+}
